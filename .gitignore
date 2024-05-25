@@ -1,0 +1,4 @@
+/squashfs-root
+/cursor-*/
+*.deb
+*.AppImage
