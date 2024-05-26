@@ -2,6 +2,10 @@
 
 Download and convert latest Cursor AppImage to debian package installation to get benefits like using VSCode.
 
+## Prerequisities
+
+- Debian/Ubuntu
+
 ## How to use
 
 1. Clone this repository
