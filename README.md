@@ -12,9 +12,9 @@ code dir/to/project
 cursor dir/to/project # you can do it like this!
 ```
 
-## Prerequisities
+## System Requirements
 
-- Debian/Ubuntu
+- Debian/Ubuntu derivatives
 
 ## How to use
 
