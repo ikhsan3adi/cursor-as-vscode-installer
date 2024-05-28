@@ -1,6 +1,16 @@
 # Install Cursor.sh like Visual Studio Code
 
-Download and convert latest Cursor AppImage to debian package installation to get benefits like using VSCode.
+Download and convert latest Cursor AppImage to debian package installation to get benefits like using VSCode e.g.
+
+```bash
+# open from terminal
+
+# vscode
+code dir/to/project 
+
+# cursor
+cursor dir/to/project # you can do it like this!
+```
 
 ## Prerequisities
 
